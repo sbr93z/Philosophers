@@ -12,7 +12,7 @@ Le projet Philosophers est un challenge du cursus 42 qui consiste à simuler le 
 ## Installation
 
 ```bash
-git clone https://github.com/sbr93z/philosophers.git
+git clone git@github.com:sferrad/Philosophers.git
 cd philosophers
 cd philo
 make
